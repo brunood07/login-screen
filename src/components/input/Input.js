@@ -8,4 +8,4 @@ export default function BasicTextFields() {
             <TextField id="outlined-basic" label="Password" type="password" variant="outlined" style={{'background-color': 'white'}} />
         </>
     );
-  }
+}

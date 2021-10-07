@@ -13,6 +13,7 @@ export const Header1 = styled.nav`
     padding: 0 36px;
     letter-spacing: 16px;
     z-index: 2;
+    box-shadow: 5px 10px 18px gray;
 `;
 
 export const Logo = styled.a`
