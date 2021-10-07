@@ -10,6 +10,7 @@ function App() {
       <GlobalStyle />
       <Header />
       <LoginContainer />
+      <RegisterForm />
     </div>
   );
 }

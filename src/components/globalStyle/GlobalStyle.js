@@ -5,7 +5,7 @@ const GlobalStyle = createGlobalStyle`
         margin: 0;
         padding: 0;
         background: #CCD5E0;
-        font-family: Arial;
+        font-family: Roboto;
     }
 `
 
